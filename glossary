@@ -1,0 +1,11 @@
+# Cybersecurity & GRC Glossary
+
+> As a professional with a legal and medical background, I believe clear definitions are the foundation of effective compliance and risk management. This glossary serves as a personal reference and a tool for cross-departmental communication.
+
+| Term | Definition | Legal/Compliance Context |
+| :--- | :--- | :--- |
+| **Asset** | An item perceived as having value to an organization. | Essential for defining the scope of liability and protection under GDPR/LFPDPPP. |
+| **Authentication** | The process of verifying who someone is. | Crucial for establishing "non-repudiation" in legal electronic transactions. |
+| **CIA Triad** | Confidentiality, Integrity, and Availability. | The core legal standard for data protection and medical record safety. |
+| **PII / SPII** | Personally Identifiable Information / Sensitive PII. | Equivalent to "Datos Personales Sensibles" in Mexican and International Law. |
+| **Encryption** | Encoding data to be unreadable without a key. | Often a "safe harbor" requirement in data breach notification laws. |
