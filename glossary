@@ -1,11 +1,24 @@
-# Cybersecurity & GRC Glossary
+# 📖 Cybersecurity & GRC Professional Glossary
 
-> As a professional with a legal and medical background, I believe clear definitions are the foundation of effective compliance and risk management. This glossary serves as a personal reference and a tool for cross-departmental communication.
+> "The beginning of wisdom is the definition of terms." — This glossary is a curated collection of core concepts I use to bridge the gap between technical security, medical data, and legal compliance.
 
-| Term | Definition | Legal/Compliance Context |
-| :--- | :--- | :--- |
-| **Asset** | An item perceived as having value to an organization. | Essential for defining the scope of liability and protection under GDPR/LFPDPPP. |
-| **Authentication** | The process of verifying who someone is. | Crucial for establishing "non-repudiation" in legal electronic transactions. |
-| **CIA Triad** | Confidentiality, Integrity, and Availability. | The core legal standard for data protection and medical record safety. |
-| **PII / SPII** | Personally Identifiable Information / Sensitive PII. | Equivalent to "Datos Personales Sensibles" in Mexican and International Law. |
-| **Encryption** | Encoding data to be unreadable without a key. | Often a "safe harbor" requirement in data breach notification laws. |
+---
+
+### 🛡️ Core Security Concepts (CIA Triad & Beyond)
+* **Confidentiality:** Ensuring that only authorized users can access specific assets or data.
+* **Integrity:** The assurance that data is correct, authentic, and has not been tampered with.
+* **Availability:** Ensuring that data and systems are accessible to authorized users when needed.
+* **Authentication:** The process of verifying the identity of a user, device, or system.
+* **Authorization:** The process of granting or denying specific permissions to a verified identity.
+
+### ⚖️ Governance, Risk, and Compliance (GRC)
+* **Asset:** Any item (data, hardware, software) perceived as having value to an organization.
+* **Attack Vector:** The pathway or method used by an attacker to penetrate a system's defenses.
+* **Due Diligence:** The research and effort made by a company to ensure they are meeting legal and security standards.
+* **NIST CSF:** A voluntary framework consisting of standards and best practices to manage cybersecurity risk.
+* **PII (Personally Identifiable Information):** Any data that can be used to identify a specific individual.
+
+### 🏥 Medical & Privacy Specialties
+* **HIPAA:** The U.S. law that provides data privacy and security provisions for safeguarding medical information.
+* **Biometrics:** Unique physical characteristics used for high-security identity verification.
+* **Chain of Custody:** The chronological documentation of the seizure, control, and analysis of digital evidence.
